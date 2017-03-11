@@ -1,0 +1,18 @@
+Algorithms for Data Science 2017
+Big Data and Social Science: A Practical Guide to Methods and Tools 2016 (5.0/1)
+Data Analytics and Python Programming 2016 (4.4/29)
+Introducing Data Science: Big Data, Machine Learning, and more, using Python tools 2016 (4.2/5)
+Big Data For Beginners 2016 (3.2/14)
+Apache Spark for Data Science Cookbook 2016
+Data Science: Create Teams That Ask the Right Questions and Deliver Real Value 2016
+Data Science Programming in Python 2016
+Big Data: Principles and best practices of scalable realtime data systems 2015 (4.4/32)
+Data Science from Scratch: First Principles with Python 2015 (4.2/68)
+Cognitive Computing and Big Data Analytics 2015 (3.8/16)
+Data Smart: Using Data Science to Transform Information into Insight 2014 (4.6/114)
+Practical Data Science with R 2014 (4.3/32)
+Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners 2014 (3.9/11)
+Data Science at the Command Line: Facing the Future with Time-Tested Tools 2014 (3.7/10)
+Agile Data Science: Building Data Analytics Applications with Hadoop 2014 (3.4/8)
+Beginning Data Science with R 2014th edition 2014 (3.0/2)
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking 2013 (4.6/145)
